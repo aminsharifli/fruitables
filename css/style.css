@@ -134,7 +134,7 @@ nav h1{
 }
 @media only screen and (min-width: 1200px){
 nav{display: none;}
-.container{padding: 0 90px;}
+.container{padding: 0 40px;}
 .menu-container{
     display: flex;
     justify-content: space-between;
