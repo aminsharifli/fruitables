@@ -67,6 +67,7 @@ nav h1{
     align-items: center;
     flex-direction: column;
     gap: 40px;
+    padding: 20px;
 }
 .mobile-main h5{
     font: 1.3em Arial;
@@ -80,10 +81,13 @@ nav h1{
     color: #81c408;
     font-weight: 800;
     line-height: 1.2;
-    width: 400px;
+    width: 310px;
     margin: 20px 0 40px 0;
 }
-.m-main{text-align: left;}
+.m-main{
+    text-align: left;
+    margin: 30px;
+}
 .search{position: relative;}
 .search input{
     border: 3px solid #ffb524;
