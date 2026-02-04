@@ -45,6 +45,7 @@ nav h1{
     position: absolute;
     left: -100%;
     transition: .3s ease-in-out;
+    padding: 0 0 10px 0;
 }
 .menubar ul li {
     padding: 15px 20px;
